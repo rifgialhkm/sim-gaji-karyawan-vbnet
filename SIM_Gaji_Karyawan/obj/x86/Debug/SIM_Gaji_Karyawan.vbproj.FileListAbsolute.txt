@@ -1,0 +1,9 @@
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\bin\Debug\SIM_Gaji_Karyawan.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\bin\Debug\SIM_Gaji_Karyawan.pdb
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\bin\Debug\SIM_Gaji_Karyawan.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\SIM_Gaji_Karyawan.vbproj.GenerateResource.Cache
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\SIM_Gaji_Karyawan.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\SIM_Gaji_Karyawan.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\SIM_Gaji_Karyawan\SIM_Gaji_Karyawan\obj\x86\Debug\SIM_Gaji_Karyawan.pdb
